@@ -1,0 +1,10 @@
+Epoch 1/10, error rate : 26.045000
+Epoch 2/10, error rate : 17.020000
+Epoch 3/10, error rate : 11.985000
+Epoch 4/10, error rate : 9.458333
+Epoch 5/10, error rate : 7.965000
+Epoch 6/10, error rate : 6.665000
+Epoch 7/10, error rate : 5.771667
+Epoch 8/10, error rate : 5.081667
+Epoch 9/10, error rate : 4.348333
+Epoch 10/10, error rate : 3.881667
